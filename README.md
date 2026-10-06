@@ -256,7 +256,6 @@ Ideas, bug reports and pull requests are welcome.
 
 <div align="center">
 
-**If this project saved you a trip to the print shop, give it a ⭐**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:55AAFF&height=120&section=footer" width="100%" alt="Footer wave" />
 
